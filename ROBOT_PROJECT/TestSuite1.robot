@@ -8,7 +8,9 @@ My First Test
 My Second Test
     Log    This is my second test 
 My Third Test
-    Log    This is my third Test          
+    Log    This is my third Test  
+My Fourth Test
+    Log    This is my Fourth Test        
 First Selenium Test
     [Tags]    smoke
     Open Browser    https://www.google.com  chrome   
